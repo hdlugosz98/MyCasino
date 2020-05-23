@@ -76,7 +76,6 @@ public class LotteryMets {
 				}
 			}
 
-			arr.ArrayReader(prizes);
 			return prizes;
 		}
 

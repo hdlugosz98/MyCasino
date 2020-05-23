@@ -1,5 +1,5 @@
 10$
-1000$
+100$
 teddy bear
 keychain
 keychain
@@ -7,7 +7,7 @@ keychain
 keychain
 keychain
 teddy bear
-1000000000$
+10$
 nothing
 nothing
 nothing
